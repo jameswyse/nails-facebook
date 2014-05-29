@@ -1,0 +1,30 @@
+{
+  "name": "nails-facebook",
+  "version": "0.0.1",
+  "description": "Facebook API service for nails-framework",
+  "main": "index.js",
+  "dependencies": {
+    "fbgraph": "0.2.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nails/nails-facebook"
+  },
+  "keywords": [
+    "nails",
+    "nails-framework",
+    "nails-plugin",
+    "facebook",
+    "graph",
+    "service",
+    "api"
+  ],
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nails/nails-facebook/issues"
+  },
+  "homepage": "https://github.com/nails/nails-facebook"
+}
